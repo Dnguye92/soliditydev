@@ -1,0 +1,42 @@
+Blockchain Nodes
+	- Geth/Parity/CPP-Eth are examples of Blockchain Nodes
+	- They are running client side and are available to download
+	- All are implementing th Ethereum Protocol
+	- Think of it like  node in a MySQL Cluster
+	- Replicating all blocks from the blockchain locally
+		- Unless in light client mode
+
+Blockchain Browsers
+	- MetaMask/Mist
+	- If you want to access a Dapp or something that is utilizing the Ethereum Blockchain then you need to have a browser that enables this connection
+
+Solidity
+	- High-level programming language
+	- Needs compilation
+		- Compiles to EVM Assembly (Byte Code)
+	- Looks like JS but isn't JS
+
+Remix
+	- It is an IDE in the cloud
+		- Remix.ethereum.org
+		- Compiles Solidity
+		- Has an integrated debugger
+
+WEB3.js, ETHJS
+	- These are frameworks or libraries that interact with the blockchain from the browser
+	- Both are meant to interact with BC Nodes (JavaScript HTTP-RPC)
+
+Truffle, Embark
+	- Frameworks for Solidity
+	- Contract management
+	- Integrated testing frameworks
+	- Truffle Boxes: Pre-configured dev environments
+
+What is the Blockchain??
+	- It's the public ledger of all of the Bitcoin transactions that have ever happened dating all the way back to the first transaction
+	- All of the transactions are being processed by millions of nodes that are connected to the network from all around the world. This is what makes it a decentralized network.
+	- ETH was made with Decentralized Apps in mind whereas BTC was made with the intention to be digital gold or another form of currency
+	- Ether is what would power Dapps
+	- 
+
+
